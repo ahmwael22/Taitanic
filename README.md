@@ -1,2 +1,3 @@
 # Taitanic
-Taitanic_Model
+Taitanic_Model_Survivers
+
